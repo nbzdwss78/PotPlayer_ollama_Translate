@@ -62,6 +62,9 @@
 <br>
 <img src="https://github.com/user-attachments/assets/d9d66241-041e-44c9-a9b0-b4ff99260114" width="45%" alt="Config 3"/>
 <img src="https://github.com/user-attachments/assets/d01eba1e-a3b1-483a-be0e-e610b2aba4f2" width="45%" alt="Config 4"/>
+<br>
+<img width="529" height="546" alt="image" src="https://github.com/user-attachments/assets/4652a3c5-c21d-40f3-8259-66941a11364e" />
+账号设置不需要填写，直接按测试，能跑通就没问题
 </div>
 
 ## 📝 模型自定义说明
